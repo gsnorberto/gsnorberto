@@ -1,9 +1,9 @@
 ### Olá! Eu sou Gabriel Norberto, estudante universitário da faculdade de Sistemas de Informação.
  
-- 🎓 Cursando o último semestre de **Sistemas de Informação** na **Universidade Estadual do Sudoeste da Bahia**
+- 🎓 Graduado em **Sistemas de Informação** na **Universidade Estadual do Sudoeste da Bahia**
 - 🏙️ Trabalhando como técnico em informática na Prefeitura Municipal de Jequié
 - 🌱 Estudando Desenvolvimento Web - Frontend (JavaScript, Typescript, CSS, HTML, Angular, React e Node.JS)
-- 🔭 Procurando por estágio/trabalho (remunerado ou não remunerado) na área de Desenvolvimento Web. 
+- 🔭 Procurando por estágio/trabalho na área de Desenvolvimento Web. 
 - 📫 Contate-me através do Email: sn_gabriel@outlook.com ou WhatsApp: (73)98898-3200
 
 <div align="center">
