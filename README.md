@@ -1,9 +1,9 @@
-### Olá! Eu sou Gabriel Norberto, estudante universitário da faculdade de Sistemas de Informação.
+### Olá! Eu sou Gabriel Norberto, Analista de Sistemas e Programador Web Full Stack.
  
 - 🎓 Graduado em **Sistemas de Informação** pela **Universidade Estadual do Sudoeste da Bahia**
 - 🏙️ Trabalhando como técnico em informática na Prefeitura Municipal de Jequié
-- 🌱 Estudando Desenvolvimento Web - Frontend (JavaScript, Typescript, CSS, HTML, Angular, React e Node.JS)
-- 🔭 Procurando por estágio/trabalho na área de Desenvolvimento Web. 
+- 🌱 Estudando Desenvolvimento Web - Frontend e Backend (JavaScript, Typescript, CSS, HTML, React, Node.JS, MySQL e PostgreSQL)
+- 🔭 Buscando ingressar na carreira de Desenvolvedor Web / Analista de Sistemas. 
 - 📫 Contate-me através do Email: sn_gabriel@outlook.com ou WhatsApp: (73)98898-3200
 
 <div align="center">
