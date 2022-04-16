@@ -1,8 +1,8 @@
 ### Olá! Eu sou Gabriel Norberto, Analista de Sistemas e Programador Web Full Stack.
  
 - 🎓 Graduado em **Sistemas de Informação** pela **Universidade Estadual do Sudoeste da Bahia**
-- 🏙️ Trabalhando como técnico em informática na Prefeitura Municipal de Jequié
-- 🌱 Estudando Desenvolvimento Web - Frontend e Backend (JavaScript, Typescript, CSS, HTML, React, Node.JS, MySQL e PostgreSQL)
+- 🏙️ Trabalhando como coordenador de informática na Secretaria de Desenvolvimento Social de Jequié
+- 🌱 Aprimorando, diarimanete, minhas habilidades como Desenvolvedor Web - Frontend e Backend
 - 🔭 Buscando ingressar na carreira de Desenvolvedor Web / Analista de Sistemas. 
 - 📫 Contate-me através do Email: sn_gabriel@outlook.com ou WhatsApp: (73)98898-3200
 
