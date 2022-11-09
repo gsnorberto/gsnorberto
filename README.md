@@ -7,7 +7,7 @@
 
 📫 Contact-me <br>
     Email address: sn_gabriel@outlook.com <br>
-    WhatsApp: +55(73)98898-3200 <br>
+    WhatsApp: (73)98898-3200 <br>
 
 <div align="center">
   <a href="https://github.com/gsnorberto">
