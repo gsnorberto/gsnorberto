@@ -1,9 +1,13 @@
-### Olá! Eu sou Gabriel Norberto, Analista de Sistemas e Programador Web Full Stack.
- 
-- 🎓 Graduado em **Sistemas de Informação** pela **Universidade Estadual do Sudoeste da Bahia**
-- 🏙️ Trabalhando como coordenador de informática na Secretaria de Desenvolvimento Social de Jequié
-- 🌱 Aprimorando, diariamente, minhas habilidades como Desenvolvedor Web - Frontend e Backend
-- 📫 Contate-me através do Email: sn_gabriel@outlook.com ou WhatsApp: (73)98898-3200
+### Hi! My name is Gabriel and i'm a programmer
+
+🧑‍💻 About-me
+   I'm front-end and back-end developer and i've a degree in Information Systems.
+   I really love programming and i'm constantly looking to improve my skills.
+   I'm driven by challenges.
+
+📫 Contact-me
+    Email address: sn_gabriel@outlook.com
+    WhatsApp: +55(73)98898-3200
 
 <div align="center">
   <a href="https://github.com/gsnorberto">
