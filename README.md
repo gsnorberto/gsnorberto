@@ -1,7 +1,7 @@
 ### Hi! My name is Gabriel and i'm a programmer
 
 🧑‍💻 About-me <br>
-   I'm front-end and back-end developer and i've a degree in Information Systems. <br>
+   I'm fullstack developer and i've a degree in Information Systems. <br>
    I really love programming and i'm constantly looking to improve my skills. <br>
    I'm driven by challenges. <br>
 
