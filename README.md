@@ -1,13 +1,13 @@
 ### Hi! My name is Gabriel and i'm a programmer
 
-🧑‍💻 About-me
-   I'm front-end and back-end developer and i've a degree in Information Systems.
-   I really love programming and i'm constantly looking to improve my skills.
-   I'm driven by challenges.
+🧑‍💻 About-me <br>
+   I'm front-end and back-end developer and i've a degree in Information Systems. <br>
+   I really love programming and i'm constantly looking to improve my skills. <br>
+   I'm driven by challenges. <br>
 
-📫 Contact-me
-    Email address: sn_gabriel@outlook.com
-    WhatsApp: +55(73)98898-3200
+📫 Contact-me <br>
+    Email address: sn_gabriel@outlook.com <br>
+    WhatsApp: +55(73)98898-3200 <br>
 
 <div align="center">
   <a href="https://github.com/gsnorberto">
