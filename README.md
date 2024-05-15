@@ -1,12 +1,12 @@
-### Hi! My name is Gabriel and i'm a programmer
+🧑‍💻 Sobre mim <br>
+- Desenvolvedor Full Stack <br>
+- Graduado em Sistemas de Informação pela UESB <br>
+- Apaixonado por tecnologia <br>
+- Em constante busca por aprimoramento das minhas habilidades como dev <br>
+- Encaro cada desafio como uma oportunidade de crescimento e aperfeiçoamento <br>
 
-🧑‍💻 About-me <br>
-   I'm fullstack developer and i've a degree in Information Systems. <br>
-   I really love programming and i'm constantly looking to improve my skills. <br>
-   I'm driven by challenges. <br>
-
-📫 Contact-me <br>
-    Email address: sn_gabriel@outlook.com <br>
+📫 Contato <br>
+    E-mail: sn_gabriel@outlook.com <br>
     WhatsApp: (73) 98898-3200 <br>
 
 <div align="center">
