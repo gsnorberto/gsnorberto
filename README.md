@@ -1,11 +1,11 @@
-🧑‍💻 Sobre mim <br>
-- Desenvolvedor Full Stack <br>
-- Graduado em Sistemas de Informação pela UESB <br>
-- Apaixonado por tecnologia <br>
-- Em constante busca por aprimoramento das minhas habilidades como dev <br>
-- Encaro cada desafio como uma oportunidade de crescimento e aperfeiçoamento <br>
+🧑‍💻 About me <br>
+    Full Stack Developer <br>
+    I hold a degree in Information Systems from Universidade Estadual do Sudoeste da Bahia (UESB). <br>
+    Passionate about technology <br>
+    Constantly seeking to improve my dev skills <br>
+    I see every challenge as an opportunity for growth and refinement <br>
 
-📫 Contato <br>
+📫 Contact <br>
     E-mail: sn_gabriel@outlook.com <br>
     WhatsApp: (73) 98898-3200 <br>
 
