@@ -1,7 +1,7 @@
 ### About me <br>
 - Full Stack Developer  <br>
 - Graduated in Information Systems from Universidade Estadual do Sudoeste da Bahia (UESB)
-- Currently working with React, Golang and Postgres
+- Currently working with React (Typescript), Golang and Postgres
 
 ### My resume <br>
 https://gsnorberto.github.io/my-resume/
