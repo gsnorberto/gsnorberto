@@ -1,13 +1,14 @@
-🧑‍💻 About me <br>
-    - Full Stack Developer <br>
-    - I hold a degree in Information Systems from Universidade Estadual do Sudoeste da Bahia (UESB) <br>
-    - Passionate about technology <br>
-    - Constantly seeking to improve my dev skills <br>
-    - I see every challenge as an opportunity for growth and refinement <br>
+About me <br>
+- Full Stack Developer  <br>
+- Graduated in Information Systems from Universidade Estadual do Sudoeste da Bahia (UESB)
+- Currently working with React, Golang and Postgres
 
-📫 Contact <br>
-    E-mail: sn_gabriel@outlook.com <br>
-    WhatsApp: (73) 98898-3200 <br>
+My resume <br>
+https://gsnorberto.github.io/my-resume/
+
+Contact <br>
+E-mail: sn_gabriel@outlook.com <br>
+WhatsApp: (73) 98898-3200 <br>
 
 <div align="center">
   <a href="https://github.com/gsnorberto">
